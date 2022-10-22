@@ -6,7 +6,7 @@
 - Uppload signal files
 - Generate signals from scratch
 - Add noise to signals 
-- Perform sampling and reconstruction of the signal
+- Perform sampling and reconstruction 
 - Adding all operation done on the sample in a list and be able to cancel any one of them
 - Save and download the resulted signal
 
