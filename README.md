@@ -1,8 +1,7 @@
 # :wink:  Sampling Studio 
-## :sunglasses:
-## Team 16 
+## :sunglasses: Team 16 
 
-## You are able to :writing_hand:
+## :writing_hand: You are able to 
 
 - Uppload signal files
 - Generate signals from scratch
@@ -11,12 +10,14 @@
 - Adding all operation done on the sample in a list and be able to cancel any one of them
 - Save and download the resulted signal
 
-## Home page:house:
+## :house: Home page
 ![This is an image](../Users/popo/Pictures/Screenshots/home1.png)
-## Generation of the sine waves :film_projector: :memo::pencil:
+## :film_projector: Generation of the sine waves 
 
-## Sampling and Reconstruction :face_in_clouds: 	:construction: 
+## :construction: Sampling and Reconstruction 
 
-## Downloading :zap: :open_file_folder: :arrow_down:
+:zap: :open_file_folder: :arrow_down:
 
-## Uploading :arrow_up:
+## :arrow_up: Uploading 
+ :memo::pencil:
+ :face_in_clouds: 	
