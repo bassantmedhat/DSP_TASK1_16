@@ -1,7 +1,8 @@
 # :wink:  Sampling Studio 
 ## :sunglasses: Team 16 
 
-## :writing_hand: You are able to 
+### <img align= "center" width=50px height=60px src="https://media2.giphy.com/media/8pEnqbR2gapFekW4KK/giphy.gif?cid=ecf05e47ire2dp6wrcli5orn0gddraxve7sug4v3753pquxa&rid=giphy.gif&ct=s">  You are able to 
+
 
 - Uppload signal files
 - Generate signals from scratch
