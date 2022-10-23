@@ -1,6 +1,7 @@
-#:wink:
+# :wink:
 # Sampling Studio 
-## Team 16 :sunglasses:
+## :sunglasses:
+## Team 16 
 
 ## You are able to :writing_hand:
 
