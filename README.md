@@ -13,7 +13,7 @@
 
 ## :house: Home page
 <a href="https://ibb.co/B4dkMDk"><img src="https://i.ibb.co/SQWSCTS/home1-png.png" alt="home1-png" border="0"></a>
-
+<a href="https://ibb.co/YLp0Byj"><img src="https://i.ibb.co/x7JFqf5/home2.png" alt="home2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>best free image hosting</a><br />
 
 
 ## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Generation of the sine waves 
