@@ -1,4 +1,5 @@
-:wink: # Sampling Studio 
+:wink
+# Sampling Studio 
 ## Team 16 :sunglasses:
 
 ## You are able to :writing_hand:
