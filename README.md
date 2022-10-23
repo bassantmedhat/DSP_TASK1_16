@@ -12,7 +12,7 @@
 - Save and download the resulted signal
 
 ## :house: Home page
-![This is an image](../Users/popo/Pictures/Screenshots/home1.png)
+![This is an image](https://ibb.co/B4dkMDk)
 
 
 
