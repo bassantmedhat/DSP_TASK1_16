@@ -28,7 +28,7 @@
 ## :open_file_folder: Downloading 
 
 ## :arrow_up: Uploading 
-<a href="https://ibb.co/gFDQvPs"><img src="https://i.ibb.co/rfZqbcn/Screenshot-138.png" alt="Screenshot-138" border="0"></a>
+<a href="https://ibb.co/J22TYym"><img src="https://i.ibb.co/9220xVc/Screenshot-186.png" alt="Screenshot-186" border="0"></a>
  <br></br>	
 
 ## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors <a id ="Contributors"></a>
