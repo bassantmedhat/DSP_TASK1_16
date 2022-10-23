@@ -17,7 +17,7 @@
 
 ## :construction: Sampling and Reconstruction 
 
-## :open_file_folder: Downloading
+## :open_file_folder: Downloading ✨
 
 ## :arrow_up: Uploading 
  	
