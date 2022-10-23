@@ -1,4 +1,4 @@
-# :wink:# Sampling Studio 
+# :wink: # Sampling Studio 
 ## :sunglasses:
 ## Team 16 
 
