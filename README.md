@@ -15,8 +15,8 @@
 ![This is an image](../Users/popo/Pictures/Screenshots/home1.png)
 
 
-## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Signal Operations
-## :film_projector: Generation of the sine waves 
+
+## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Generation of the sine waves 
 
 ## ✨  Sampling and Reconstruction 
 
