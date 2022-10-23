@@ -12,7 +12,7 @@
 - Save and download the resulted signal
 
 ## :house: Home page
-!(<a href="https://ibb.co/B4dkMDk"><img src="https://i.ibb.co/SQWSCTS/home1-png.png" alt="home1-png" border="0"></a>)
+<a href="https://ibb.co/B4dkMDk"><img src="https://i.ibb.co/SQWSCTS/home1-png.png" alt="home1-png" border="0"></a>
 
 
 
