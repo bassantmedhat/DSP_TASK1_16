@@ -18,13 +18,18 @@
 
 
 ## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Generation of the sine waves 
-
+<a href="https://ibb.co/PjG2BRN"><img src="https://i.ibb.co/yPFzLDX/sin2.png" alt="sin2" border="0"></a>
+<br></br>
+<a href="https://ibb.co/q0LN4nC"><img src="https://i.ibb.co/z8WXL5F/sin6.png" alt="sin6" border="0"></a>
+<br></br>
 ## ✨  Sampling and Reconstruction 
-
+<a href="https://ibb.co/NWSwjzz"><img src="https://i.ibb.co/3SztNHH/sinr4.png" alt="sinr4" border="0"></a>
+<br></br>
 ## :open_file_folder: Downloading 
 
 ## :arrow_up: Uploading 
- 	
+
+ <br></br>	
 
 ## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors <a id ="Contributors"></a>
 
