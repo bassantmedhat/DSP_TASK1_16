@@ -13,11 +13,14 @@
 
 ## :house: Home page
 ![This is an image](../Users/popo/Pictures/Screenshots/home1.png)
+
+
+## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Signal Operations
 ## :film_projector: Generation of the sine waves 
 
-## :construction: Sampling and Reconstruction 
+## ✨  Sampling and Reconstruction 
 
-## :open_file_folder: Downloading ✨
+## :open_file_folder: Downloading 
 
 ## :arrow_up: Uploading 
  	
