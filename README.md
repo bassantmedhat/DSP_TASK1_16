@@ -16,8 +16,7 @@
 
 ## :construction: Sampling and Reconstruction 
 
-:zap: :open_file_folder: :arrow_down:
+## :open_file_folder: Downloading
 
 ## :arrow_up: Uploading 
- :memo::pencil:
- :face_in_clouds: 	
+ 	
