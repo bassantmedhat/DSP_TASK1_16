@@ -1,7 +1,6 @@
 # :wink:  Sampling Studio 
 ## :sunglasses: Team 16 
-## :newspaper: Cousre : 
-## Digital Signal Processing,
+## :newspaper: Cousre :Digital Signal Processing,
 ### :date: semester 1, date 30-10-2022 
 ## :star:Team Members:
 -1 Mohamed Nasser B.N 20 , Sec 2
