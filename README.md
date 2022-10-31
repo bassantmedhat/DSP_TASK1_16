@@ -3,10 +3,10 @@
 ## :newspaper: Cousre :Digital Signal Processing,
 ### :date: semester 1, date 30-10-2022 
 ## :star:Team Members:
-- Mohamed Nasser  ------ B.N 20 , Sec 2
-- Yousr Hejy   ------------ < >B.N    , Sec 2
-- Mahmoud Hamdy   ------ B.N    , Sec 2
-- Bassant Medhat  --------- B.N 21 , Sec 1
+- Mohamed Nasser  <      > B.N 20 , Sec 2
+- Yousr Hejy      <      > B.N    , Sec 2
+- Mahmoud Hamdy   <      > B.N    , Sec 2
+- Bassant Medhat  <      > B.N 21 , Sec 1
 ### <img align= "center" width=50px height=60px src="https://media2.giphy.com/media/8pEnqbR2gapFekW4KK/giphy.gif?cid=ecf05e47ire2dp6wrcli5orn0gddraxve7sug4v3753pquxa&rid=giphy.gif&ct=s">  You are able to 
 
 - Uppload signal files
