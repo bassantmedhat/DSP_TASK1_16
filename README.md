@@ -19,6 +19,7 @@
 ## :house: Home page
 <a href="https://ibb.co/7JWBDNy"><img src="https://i.ibb.co/7JWBDNy/home1-png.png" alt="home1-png" border="0"></a>
 <br></br>
+![My Remote Image](https://ibb.co/7JWBDNy)
 
 
 ## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Generation of the sine waves 
