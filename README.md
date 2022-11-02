@@ -16,13 +16,13 @@
 - Adding all operation done on the sample in a list and be able to cancel any one of them
 - Save and download the resulted signal
 
-## :arrow_up:  Browse Files
-#<a href="https://ibb.co/hYRhTMv"><img src="https://i.ibb.co/7JWBDNy/home1-png.png" alt="home1-png" border="0"></a>
-<br></br>
 ## :house: Main Page
 <a href="https://ibb.co/hYRhTMv"><img src="https://i.ibb.co/2Z7mp6B/Screensho.png" alt="Screensho" border="0" /></a>
 <br></br>
 
+## :arrow_up:  Browse Files
+#<a href="https://imgbb.com/7JWBDNy"><img src="https://i.ibb.co/6RPGSJs/Screenshot-2022-11-01-082610.png" alt="Screenshot-2022-11-01-082610" border="0" /></a>
+<br></br>
 ## ✨  Sampling and Reconstruction 
 <a href="https://ibb.co/hYRhTMv"><img src="https://i.ibb.co/qpLQ4YK/Screenshot-2022-11-01-082832.png" alt="Screensho" border="0" /></a>
 <br></br>
