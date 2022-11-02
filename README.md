@@ -26,12 +26,15 @@
 ## ✨  Sampling and Reconstruction 
 <a href="https://ibb.co/hYRhTMv"><img src="https://i.ibb.co/qpLQ4YK/Screenshot-2022-11-01-082832.png" alt="Screensho" border="0" /></a>
 <br></br>
-
+<a href="https://ibb.co/hYRhTMv"><img src="https://i.ibb.co/6XRVqZ5/Screensho.png" alt="Screensho" border="0" /></a>
+<br></br>
+<a href="https://ibb.co/hYRhTMv"><img src="https://i.ibb.co/J3zwxS3/Screenshot-2022-11-01-083112.png" alt="Screensho" border="0" /></a>
+<br></br>
 ## :open_file_folder:generation and adding sin wave
 <a href="https://ibb.co/V3p2SMQ"><img src="https://i.ibb.co/3SztNHH/sinr4.png" alt="sinr4" border="0"></a>
 <br></br>
 ## ✨ Adding noise to the signal
-<a href="https://ibb.co/cYNSbsY"><img src="https://i.ibb.co/3SztNHH/sinr4.png" alt="sinr4" border="0"></a>
+<a href="https://ibb.co/cYNSbsY"><img src="https://i.ibb.co/mSF6qhX/Screenshot-2022-11-01-083020.png" alt="sinr4" border="0"></a>
 <br></br>
 
 ## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors <a id ="Contributors"></a>
