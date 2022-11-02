@@ -16,25 +16,26 @@
 - Adding all operation done on the sample in a list and be able to cancel any one of them
 - Save and download the resulted signal
 
-## :house: Browse Files
-<a href="https://ibb.co/hYRhTMv"><img src="https://i.ibb.co/7JWBDNy/home1-png.png" alt="home1-png" border="0"></a>
+## :arrow_up  Browse Files
+#<a href="https://ibb.co/hYRhTMv"><img src="https://i.ibb.co/7JWBDNy/home1-png.png" alt="home1-png" border="0"></a>
 <br></br>
-![My Remote Image](https://ibb.co/7JWBDNy)
+## :house: Main Page
+#<a href="https://ibb.co/7JWBDNy"><img src="https://i.ibb.co/7JWBDNy/home1-png.png" alt="home1-png" border="0"></a>
+<br></br>
 
-
-## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Generation of the sine waves 
-<a href="https://ibb.co/PjG2BRN"><img src="https://i.ibb.co/yPFzLDX/sin2.png" alt="sin2" border="0"></a>
-<br></br>
-<a href="https://ibb.co/q0LN4nC"><img src="https://i.ibb.co/z8WXL5F/sin6.png" alt="sin6" border="0"></a>
-<br></br>
 ## ✨  Sampling and Reconstruction 
 <a href="https://ibb.co/NWSwjzz"><img src="https://i.ibb.co/3SztNHH/sinr4.png" alt="sinr4" border="0"></a>
 <br></br>
-## :open_file_folder: Downloading 
-
-## :arrow_up: Uploading 
-<a href="https://ibb.co/J22TYym"><img src="https://i.ibb.co/9220xVc/Screenshot-186.png" alt="Screenshot-186" border="0"></a>
- <br></br>	
+<a href="https://ibb.co/M7y0jkr"><img src="https://i.ibb.co/3SztNHH/sinr4.png" alt="sinr4" border="0"></a>
+<br></br>
+<a href="https://ibb.co/TvLS15c"><img src="https://i.ibb.co/3SztNHH/sinr4.png" alt="sinr4" border="0"></a>
+<br></br>
+## :open_file_folder:generation and adding sin wave
+<a href="https://ibb.co/V3p2SMQ"><img src="https://i.ibb.co/3SztNHH/sinr4.png" alt="sinr4" border="0"></a>
+<br></br>
+## ✨ Adding noise to the signal
+<a href="https://ibb.co/cYNSbsY"><img src="https://i.ibb.co/3SztNHH/sinr4.png" alt="sinr4" border="0"></a>
+<br></br>
 
 ## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors <a id ="Contributors"></a>
 
