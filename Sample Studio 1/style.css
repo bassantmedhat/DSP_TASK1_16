@@ -1,0 +1,139 @@
+/* Font of UI */
+html, body, [class*='css']{
+    font-family: 'cairo';
+}
+
+/* titles */
+.css-81oif8.effi0qh3{
+    color: rgb(34, 9, 88);
+    text-align: center;
+    font-size: 50;
+    font-weight: 900;
+}
+
+.css-1jyhza6.e1tzin5v0{
+    height: 90px;
+}
+
+/**************** SideBar *******************************/
+/* SideBar Color */
+div.css-6qob1r.e1fqkh3o3 {
+    background-color: #b6aef275;
+    /* padding: 5px;
+    padding: 20% ; */
+    border-radius: 20px;
+    width: auto;
+    overflow: hidden;
+}
+
+/* upper part of sidebar */
+.css-hxt7ib.e1fqkh3o4{
+    padding-top: 70px; 
+    /* margin-top: 0.1px; */
+}
+
+/* sidebar cointaner */
+.css-hxt7ib.e1fqkh3o4{
+    width: 100%;
+}
+
+/***************  Buttons  *********************/
+/* Browse button words */
+.css-u8hs99.exg6vvm14{
+    display: none;
+}
+
+/* Remove browse button extra space */
+[data-testid="stFileUploadDropzone"]{
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+}
+
+/* The Button Style */
+.css-1prua9e.edgvbvh9{
+    background-color: #191970;
+    color:#ffffff;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 20;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    width: 200px;
+    height: 50px;
+}
+
+/* browse space */
+[data-testid="stFileUploader"]{
+    margin-top: -30px;
+    padding: 0;
+    width: 300;
+}
+
+
+/*********************** Select Box  ***************************************/
+/* select box items */
+.css-8ojfln.e1wqxbhn1{
+    padding: 8px 16px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    font-size: 30;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* ******************************* Slider ******************* */
+/* pointer of slider */
+.StyledThumbValue.css-10y5sf6.e88czh82{
+    font-size: 30;
+    font-weight: 800;
+    color: navy;
+}
+
+/* slider min max values */
+.css-1inwz65.e88czh80{
+    font-size: 30;
+    font-weight: 900;
+    color: rgb(0, 0, 109);
+}
+
+.css-demzbm {
+    background-color:   rgb(52, 72, 169);
+}
+div.stSlider > div[data-baseweb = "slider"] > div >div  {
+background: linear-gradient(to right, rgb(52, 72, 169) 0%, rgb(99, 118, 216) 20%, rgb(78, 165, 216) 100%);
+
+border-radius: 10px;
+outline: none;
+}
+
+/* ********************** check box ************************ */
+.css-1djdyxw.ek41t0m0{
+    /* color: rgb(34, 9, 88); */
+    font-size: 30;
+    font-weight: 900;
+
+    color: rgb(3, 3, 90);
+}
+
+.row-widget.stSelectbox{
+    width: 60px;
+}
+
+/* ******************* Delete List **************************** */
+.st-bq.st-bd.st-c9 .st-ca .st-cb .st-b3 .st-cc .st-cd .st-br .st-ce .st-cf .st-cg .st-ch{
+font-weight: 900;
+}
+
+.st-cj .st-br .st-ck .st-cl.st-cm .st-bs .st-cn .st-co .st-cp{
+    font-weight: 900;
+}
+
+
+
+.css-163ttbj .e1fqkh3o10{
+    position: relative;
+}
