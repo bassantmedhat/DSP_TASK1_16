@@ -20,11 +20,11 @@
 #<a href="https://ibb.co/hYRhTMv"><img src="https://i.ibb.co/7JWBDNy/home1-png.png" alt="home1-png" border="0"></a>
 <br></br>
 ## :house: Main Page
-#<a href="https://ibb.co/7JWBDNy"><img src="https://i.ibb.co/7JWBDNy/home1-png.png" alt="home1-png" border="0"></a>
+<a href="https://ibb.co/7JWBDNy"><img src="https://i.ibb.co/7JWBDNy/home1-png.png" alt="home1-png" border="0"></a>
 <br></br>
 
 ## ✨  Sampling and Reconstruction 
-<a href="https://ibb.co/hYRhTMv"><img src="https://i.ibb.co/2Z7mp6B/Screensho.png" alt="Screensho" border="0" /></a>
+<a href="https://ibb.co/hYRhTMv"><img src="https://i.ibb.co/hYRhTMv/Screensho.png" alt="Screensho" border="0" /></a>
 <br></br>
 
 ## :open_file_folder:generation and adding sin wave
