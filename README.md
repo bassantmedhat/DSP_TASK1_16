@@ -28,8 +28,6 @@
 <br></br>
 <a href="https://ibb.co/hYRhTMv"><img src="https://i.ibb.co/6XRVqZ5/Screensho.png" alt="Screensho" border="0" /></a>
 <br></br>
-<a href="https://ibb.co/hYRhTMv"><img src="https://i.ibb.co/J3zwxS3/Screenshot-2022-11-01-083112.png" alt="Screensho" border="0" /></a>
-<br></br>
 ## :open_file_folder:generation and adding sin wave
 <a href="https://ibb.co/cYNSbsY"><img src="https://i.ibb.co/mSF6qhX/Screenshot-2022-11-01-083020.png" alt="sinr4" border="0"></a>
 <br></br>
