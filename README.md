@@ -24,12 +24,9 @@
 <br></br>
 
 ## ✨  Sampling and Reconstruction 
-<a href="https://ibb.co/NWSwjzz"><img src="https://i.ibb.co/3SztNHH/sinr4.png" alt="sinr4" border="0"></a>
-<br></br>
 <a href="https://ibb.co/M7y0jkr"><img src="https://i.ibb.co/3SztNHH/sinr4.png" alt="sinr4" border="0"></a>
 <br></br>
-<a href="https://ibb.co/TvLS15c"><img src="https://i.ibb.co/3SztNHH/sinr4.png" alt="sinr4" border="0"></a>
-<br></br>
+
 ## :open_file_folder:generation and adding sin wave
 <a href="https://ibb.co/V3p2SMQ"><img src="https://i.ibb.co/3SztNHH/sinr4.png" alt="sinr4" border="0"></a>
 <br></br>
