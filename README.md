@@ -19,7 +19,7 @@
 ## :house: Main Page
 <a href="https://ibb.co/hYRhTMv"><img src="https://i.ibb.co/2Z7mp6B/Screensho.png" alt="Screensho" border="0" /></a>
 <br></br>
-<a href="https://ibb.co/NWgLDvt"><img src="https://i.ibb.co/5sX5p0G/Screenshot-222.png" alt="Screenshot-222" border="0" /></a>
+
 ## :arrow_up:  Browse Files
 #<a href="https://imgbb.com/7JWBDNy"><img src="https://i.ibb.co/6RPGSJs/Screenshot-2022-11-01-082610.png" alt="Screenshot-2022-11-01-082610" border="0" /></a>
 <br></br>
