@@ -44,7 +44,7 @@
      <td align="center"><a href="https://github.com/mohamed33333"><img src="https://avatars.githubusercontent.com/u/66921605?v=4" width="150px;" alt=""/><br /><sub><b>Mohamed Nasser</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/MahmoudHamddy" ><img src="https://avatars.githubusercontent.com/u/67794892?v=4" width="150px;" alt=""/><br /><sub><b>Mahmoud Hamdy</b></sub></a><br />
     </td>
-    <td align="center"><a href="https://github.com/YousrHejy"><img src="[https://avatars.githubusercontent.com/u/93473042?v=4](https://avatars.githubusercontent.com/u/93840195?v=4)" width="150px;" alt=""/><br /><sub><b>YousrHejy</b></sub></a><br />
+    <td align="center"><a href="https://github.com/YousrHejy"><img src="https://avatars.githubusercontent.com/u/93840195?v=4" width="150px;" alt=""/><br /><sub><b>YousrHejy</b></sub></a><br />
      </td>
   </tr>
 </table>
